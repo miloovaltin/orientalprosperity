@@ -1,0 +1,16 @@
+{
+"name": "orientalprosperity",
+"theme": "oriental prosperity",
+"version": "2.6.4",
+"description": "oriental prosperity สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+"keywords": [
+"oriental prosperity",
+"oriental prosperity เครดิตฟรี",
+"oriental prosperity ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/orientalprosperity",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
